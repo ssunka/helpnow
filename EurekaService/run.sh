@@ -1,0 +1,1 @@
+docker run -d -p 8761:8761 -e CONFIG_SERVICE_PASSWORD=vmware123 -e CONFIG_SERVICE_URL=ms-dev-redis-1 --name=eurekaservice eurekaservice
