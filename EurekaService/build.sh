@@ -1,1 +1,1 @@
-docker build -t eurekaservice .
+docker build -t ssunka/eureka .
